@@ -6,7 +6,7 @@ public class ReversedLetters {
 
 	public static void main(String[] args) {
 		
-		String word = reverseOnlyLetters("qwer5ty1");
+		String word = reverseOnlyLetters("qwer5ty");
 		
 		System.out.println(word);
 	}
